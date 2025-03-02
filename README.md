@@ -69,6 +69,21 @@ src/
 - Error handling
 - Testing
 
+
+## For example download:
+## To create module
+```bash
+nest g module users
+```
+## To create controller
+```bash
+nest g controller users
+```
+## To create service
+```bash
+nest g service users
+```
+
 ## Additional Resources
 - [NestJS Official Documentation](https://docs.nestjs.com)
 - [NestJS GitHub Repository](https://github.com/nestjs/nest)
